@@ -80,7 +80,7 @@ var cnItems = {
     "Build the quarry.": "建造采石场。",
     "Produces Stone and Coal.": "生产石头和煤炭。",
     "Produces Water.": "产生水。",
-    "Unlock": "开锁",
+    "Unlock": "解锁",
     "Unlock the cistern": "解锁水箱",
     "Upgrades (Cistern)": "升级（蓄水池）",
     "Upgrades (Quarry)": "升级（采石场）",
