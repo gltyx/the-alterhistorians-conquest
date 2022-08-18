@@ -49,7 +49,7 @@ var cnItems = {
     "None": "无",
     "Sell All": "全部出售",
     "Shoveller": "铲子",
-    "The Second Alterhistorian": "第二变史者",
+    "The Second Alterhistorian": "The Second Alterhistorian",
     "Upgrades": "升级",
     "Quarry": "采石场",
     "Attach a primitive axe to cut down trees": "附上原始斧头砍树",
