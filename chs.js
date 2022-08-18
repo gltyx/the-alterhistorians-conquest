@@ -110,7 +110,7 @@ var cnItems = {
     "Are you sure you want to remove this machine? Alchemy resources inside the machine will be lost!": "您确定要删除这台机器吗？ 机器内的炼金资源将丢失！",
     "Cancel": "取消",
     "Confirm": "确认",
-    "Merges three inputs into one single stream.": "将三个输入合并到一个蒸汽中。",
+    "Merges three inputs into one single stream.": "将三个输入合并到一个流中。",
     "Remove Machine (WaterMixer)": "移除机器（水混合器）",
     "Coal": "煤",
     "Converts Steam into Energy. James Watt would be proud.": "将蒸汽转化为能量。 詹姆斯瓦特会感到自豪。",
